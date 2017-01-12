@@ -22,7 +22,13 @@ Udacity challenge: Predict steering angle
 
 [Ryan Zotti car project](https://github.com/RyanZotti/Self-Driving-Car)
 
+ROS
 [Berkeley Autonomous RC projects](http://www.barc-project.com/)
 
 DIY Robocars (Chris Anderson)
 [Carputer](https://github.com/otaviogood/carputer)
+
+
+# Frameworks
+[OSCC Open Source Car Control](https://github.com/PolySync/OSCC/wiki)
+[PolySync OSCC](https://github.com/PolySync/OSCC)
