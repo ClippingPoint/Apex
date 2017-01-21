@@ -32,3 +32,8 @@ DIY Robocars (Chris Anderson)
 # Frameworks
 [OSCC Open Source Car Control](https://github.com/PolySync/OSCC/wiki)
 [PolySync OSCC](https://github.com/PolySync/OSCC)
+
+
+# Self driving Events
+
+[Self driving events](http://selfracingcars.com/)
